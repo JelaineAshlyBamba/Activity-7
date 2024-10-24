@@ -1,0 +1,14 @@
+D:\Documents\act 7\HierarchicalMenuApp\bin\Debug\net8.0\HierarchicalMenuApp.exe
+D:\Documents\act 7\HierarchicalMenuApp\bin\Debug\net8.0\HierarchicalMenuApp.deps.json
+D:\Documents\act 7\HierarchicalMenuApp\bin\Debug\net8.0\HierarchicalMenuApp.runtimeconfig.json
+D:\Documents\act 7\HierarchicalMenuApp\bin\Debug\net8.0\HierarchicalMenuApp.dll
+D:\Documents\act 7\HierarchicalMenuApp\bin\Debug\net8.0\HierarchicalMenuApp.pdb
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\HierarchicalMenuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\HierarchicalMenuApp.AssemblyInfoInputs.cache
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\HierarchicalMenuApp.AssemblyInfo.cs
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\HierarchicalMenuApp.csproj.CoreCompileInputs.cache
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\HierarchicalMenuApp.dll
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\refint\HierarchicalMenuApp.dll
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\HierarchicalMenuApp.pdb
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\HierarchicalMenuApp.genruntimeconfig.cache
+D:\Documents\act 7\HierarchicalMenuApp\obj\Debug\net8.0\ref\HierarchicalMenuApp.dll
